@@ -1,0 +1,55 @@
+{
+  "profile": {
+    "name": "Rohit Kumar Singh",
+    "initials": "RS",
+    "resumePdf": "/rohit-kumar-singh-resume.pdf",
+    "portrait": "/pfp/main.jpeg",
+    "portraitHidden": "/pfp/hidden.jpeg",
+    "role": {
+      "prefix": "Full-stack engineer,",
+      "emphasis": "AI retrieval & systems"
+    },
+    "location": "Delhi, India",
+    "availability": "Open for opportunities",
+    "email": "rohitkumarsingh82617@gmail.com",
+    "intro": "Full-stack engineer building AI retrieval and agent systems that hold up in production. Experienced with high-performance C++ engines, vector indexing, and scalable web apps.",
+    "notes": [
+      "Pursuing B.Tech in Computer Science Engineering (IOT) at Noida Institute of Engineering and Technology (SGPA: 8.52/10, expected July 2027).",
+      "Built a Vector Database from scratch in C++ with HNSW indexing and an Ollama-driven RAG pipeline, alongside a 1000+ pkts/sec Deep Packet Inspection engine.",
+      "Active problem solver with 350+ DSA problems solved on LeetCode, dedicated to clean architectures, efficient thread management, and low-latency systems."
+    ],
+    "deskWelcome": "Welcome to my portfolio! Explore the canvas to see my projects, architecture, and code.",
+    "links": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/rohit97985"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/rohitsingh9798/"
+      },
+      {
+        "label": "LeetCode",
+        "href": "https://leetcode.com/u/asg_rohit/"
+      },
+      {
+        "label": "Email",
+        "href": "mailto:rohitkumarsingh82617@gmail.com"
+      }
+    ]
+  },
+  "headlineStats": [
+    {
+      "value": "8.52",
+      "label": "sgpa"
+    },
+    {
+      "value": "500+",
+      "label": "leetcode"
+    },
+    {
+      "value": "3",
+      "label": "projects"
+    }
+  ]
+}

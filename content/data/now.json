@@ -1,0 +1,19 @@
+{
+  "updated": "2026-10",
+  "lede": "A snapshot, short and sweet.",
+  "items": [
+    {
+      "label": "Building",
+      "what": "High-performance vector search algorithms with HNSW indexing and local Ollama RAG pipelines."
+    },
+    {
+      "label": "Engineering",
+      "what": "Deep Packet Inspection and network traffic analysis engines in C++."
+    },
+    {
+      "label": "Solving",
+      "what": "DSA problems on LeetCode (350+ solved) and deepening multithreading and system design skills."
+    }
+  ],
+  "foot": "Borrowed from Derek Sivers, who has been telling people to keep one of these for years."
+}

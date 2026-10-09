@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "vector-search-hnsw",
+    "title": "Building a Vector Database in C++ from Scratch",
+    "blurb": "HNSW indexing, KD-Trees, and high-dimensional semantic search.",
+    "year": 2026,
+    "readingTime": "7 min",
+    "href": "https://github.com/rohit97985"
+  },
+  {
+    "slug": "deep-packet-inspection",
+    "title": "High-Throughput Deep Packet Inspection with C++",
+    "blurb": "Multithreading, PCAP parsing, and SNI domain filtering.",
+    "year": 2025,
+    "readingTime": "5 min",
+    "href": "https://github.com/rohit97985/packet-analyser"
+  }
+]

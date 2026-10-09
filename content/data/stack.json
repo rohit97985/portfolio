@@ -1,0 +1,122 @@
+[
+  {
+    "label": "Languages",
+    "tools": [
+      {
+        "name": "C++",
+        "logo": "/logos/cplusplus-original.svg"
+      },
+      {
+        "name": "C",
+        "logo": "/logos/c-original.svg"
+      },
+      {
+        "name": "Python",
+        "logo": "/logos/python-original.svg"
+      },
+      {
+        "name": "Java",
+        "logo": "/logos/java-original.svg"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "/logos/javascript-original.svg"
+      },
+      {
+        "name": "SQL"
+      }
+    ]
+  },
+  {
+    "label": "Frontend",
+    "tools": [
+      {
+        "name": "React",
+        "logo": "/logos/react-original.svg"
+      },
+      {
+        "name": "Next.js",
+        "logo": "/logos/nextjs-original.svg"
+      },
+      {
+        "name": "Bootstrap",
+        "logo": "/logos/bootstrap-original.svg"
+      }
+    ]
+  },
+  {
+    "label": "Backend & APIs",
+    "tools": [
+      {
+        "name": "Spring Boot"
+      },
+      {
+        "name": "FastAPI",
+        "logo": "/logos/FastAPI.svg"
+      },
+      {
+        "name": "REST APIs",
+        "logo": "/logos/rest.png"
+      }
+    ]
+  },
+  {
+    "label": "Systems & AI",
+    "tools": [
+      {
+        "name": "HNSW"
+      },
+      {
+        "name": "Ollama"
+      },
+      {
+        "name": "Multithreading"
+      },
+      {
+        "name": "PCAP"
+      },
+      {
+        "name": "KD-Tree"
+      },
+      {
+        "name": "RAG pipelines"
+      },
+      {
+        "name": "Vector embeddings"
+      }
+    ]
+  },
+  {
+    "label": "Databases",
+    "tools": [
+      {
+        "name": "MySQL",
+        "logo": "/logos/mysql-original.svg"
+      },
+      {
+        "name": "SQLite",
+        "logo": "/logos/sqlite-original.svg"
+      }
+    ]
+  },
+  {
+    "label": "Tools & Environment",
+    "tools": [
+      {
+        "name": "Git",
+        "logo": "/logos/git-original.svg"
+      },
+      {
+        "name": "Linux",
+        "logo": "/logos/kalilinux-original.svg"
+      },
+      {
+        "name": "Postman",
+        "logo": "/logos/postman-original.svg"
+      },
+      {
+        "name": "VS Code"
+      }
+    ]
+  }
+]

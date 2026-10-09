@@ -1,0 +1,110 @@
+{
+  "jobs": [
+    {
+      "slug": "vector-db-eng",
+      "role": "Systems & AI Engineer",
+      "company": "Vector Database & RAG Engine",
+      "period": "2025 – Present",
+      "year": 2026,
+      "meta": "Systems Engineering · C++, HNSW, Ollama · 2025 – Present",
+      "lede": "Engineered a custom C++ vector search engine with HNSW indexing and local Ollama RAG pipeline.",
+      "highlights": [
+        "Built a Vector Database from scratch in **C++** implementing HNSW, KD-Tree, and Brute Force indexing for semantic search and retrieval.",
+        "Optimized nearest-neighbor search using **HNSW**, achieving up to **10x faster query execution** than brute-force search.",
+        "Developed a complete RAG pipeline using **Ollama** (`nomic-embed-text`, `llama3.2`), supporting **768-D embeddings**, REST APIs, and document retrieval."
+      ],
+      "stack": [
+        "C++",
+        "HNSW",
+        "Ollama",
+        "REST APIs",
+        "Python"
+      ],
+      "images": [
+        "/work/vector-db.jpg"
+      ]
+    },
+    {
+      "slug": "dpi-eng",
+      "role": "Systems & Networking Developer",
+      "company": "Packet Analyzer (DPI Engine)",
+      "period": "2025",
+      "year": 2025,
+      "meta": "Systems & Networking · C++, Multithreading, PCAP · 2025",
+      "lede": "Designed a multithreaded Deep Packet Inspection engine capable of processing 1000+ packets/sec.",
+      "highlights": [
+        "Developed a Deep Packet Inspection engine capable of processing **1000+ packets/sec** using multithreading.",
+        "Implemented packet parsing and **SNI-based domain detection** achieving accurate application-level protocol identification.",
+        "Built a filtering system supporting multiple rule types (**IP, domain, and application-level blocking**), reducing latency by **30%**."
+      ],
+      "stack": [
+        "C++",
+        "Multithreading",
+        "PCAP",
+        "Linux"
+      ],
+      "images": [
+        "/work/packet-analyzer.jpg"
+      ]
+    },
+    {
+      "slug": "alumhive-eng",
+      "role": "Full-Stack Developer",
+      "company": "AlumHive Platform",
+      "period": "2024 – 2025",
+      "year": 2025,
+      "meta": "Full-Stack Platform · React, Spring Boot, MySQL · 2024 – 2025",
+      "lede": "Built a full-stack alumni networking platform to solve fragmented communication between students and alumni.",
+      "highlights": [
+        "Built a full-stack alumni networking platform using **React**, **Java (Spring Boot)**, **Bootstrap**, and **REST APIs**.",
+        "Developed role-based dashboards, alumni directory, job board, mentorship system, and advanced search/filtering for 3 user roles.",
+        "Reduced alumni lookup time by **40%**, improved data retrieval through REST API integration, and delivered a fully responsive application."
+      ],
+      "stack": [
+        "React",
+        "Java",
+        "Spring Boot",
+        "Bootstrap",
+        "MySQL",
+        "REST APIs"
+      ],
+      "images": [
+        "/work/alumhive.jpg"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Noida Institute of Engineering and Technology",
+      "degree": "B.Tech in Computer Science Engineering (IOT)",
+      "detail": "SGPA: 8.52/10 · Expected July 2027 · Noida, Uttar Pradesh"
+    },
+    {
+      "institution": "Sohan Lal Arya",
+      "degree": "Higher Secondary School (PCM)",
+      "detail": "86.6% · July 2022 · Bokaro, Jharkhand"
+    }
+  ],
+  "awards": [
+    {
+      "title": "500+ Solved",
+      "event": "LeetCode (Problem Solving & DSA)"
+    },
+    {
+      "title": "Certified",
+      "event": "AWS Academy Introduction to Cloud"
+    },
+    {
+      "title": "Certified",
+      "event": "Java Programming Fundamentals · Infosys Springboard"
+    },
+    {
+      "title": "Certified",
+      "event": "Introduction to Cybersecurity · Cisco Networking Academy"
+    },
+    {
+      "title": "Certified",
+      "event": "Java Fundamentals · Oracle Academy"
+    }
+  ]
+}

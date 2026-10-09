@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "vector-db-rag",
+    "name": "Vector Database with RAG Pipeline",
+    "tagline": "C++ vector engine with HNSW indexing & Ollama RAG",
+    "year": 2026,
+    "kind": "System",
+    "meta": "2026 · System · C++, HNSW, KD-Tree, Ollama, REST API",
+    "lede": "A high-performance Vector Database built from scratch in C++ implementing HNSW, KD-Tree, and Brute Force indexing for semantic search and retrieval.",
+    "highlights": [
+      "Built a **Vector Database from scratch in C++** implementing HNSW, KD-Tree, and Brute Force indexing for semantic search and retrieval.",
+      "Optimized nearest-neighbor search using **HNSW**, achieving up to **10x faster query execution** than brute-force search while maintaining high retrieval quality.",
+      "Developed a complete **RAG pipeline using Ollama** (`nomic-embed-text`, `llama3.2`), supporting **768-D embeddings**, REST APIs, document retrieval, and AI-powered question answering.",
+      "Engineered thread-safe query routing and vector serialization for low-latency similarity operations."
+    ],
+    "stack": [
+      "C++",
+      "HNSW",
+      "KD-Tree",
+      "Ollama",
+      "REST APIs",
+      "Python"
+    ],
+    "images": [
+      "/work/vector-db.jpg"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/rohit97985"
+      }
+    ]
+  },
+  {
+    "slug": "packet-analyzer",
+    "name": "Packet Analyzer (DPI Engine)",
+    "tagline": "Deep Packet Inspection engine processing 1000+ packets/sec",
+    "year": 2025,
+    "kind": "System",
+    "meta": "2025 · System · C++, Multithreading, Networking, PCAP",
+    "lede": "A multithreaded Deep Packet Inspection engine capable of high-throughput packet processing, SNI detection, and multi-rule filtering.",
+    "highlights": [
+      "Developed a **Deep Packet Inspection engine** capable of processing **1000+ packets/sec** using multithreading.",
+      "Implemented packet parsing and **SNI-based domain detection** achieving accurate application-level identification.",
+      "Built a filtering system supporting multiple rule types (**IP, domain, application-level blocking**).",
+      "Optimized performance to reduce latency by **30%** through efficient thread management."
+    ],
+    "stack": [
+      "C++",
+      "Multithreading",
+      "PCAP",
+      "Linux",
+      "Git"
+    ],
+    "images": [
+      "/work/packet-analyzer.jpg"
+    ],
+    "links": [
+      {
+        "label": "Repo",
+        "href": "https://github.com/rohit97985/packet-analyser"
+      }
+    ]
+  },
+  {
+    "slug": "alumhive",
+    "name": "AlumHive",
+    "tagline": "Alumni connect platform bridging students and graduates",
+    "year": 2025,
+    "kind": "Product",
+    "meta": "2025 · Product · React, Spring Boot, MySQL, Bootstrap, REST APIs",
+    "lede": "A full-stack alumni networking platform solving fragmented alumni-student communication with role-based access and mentorship.",
+    "highlights": [
+      "Built a full-stack alumni networking platform to solve fragmented alumni-student communication using **React**, **Java (Spring Boot)**, **Bootstrap**, and **REST APIs**.",
+      "Developed role-based dashboards, alumni directory, job board, mentorship system, and advanced search/filtering for **3 user roles**.",
+      "Reduced alumni lookup time by **40%**, improved data retrieval through REST API integration, and delivered a fully responsive application across all devices.",
+      "Persisted relational records with **MySQL**, handling secure authentication, mentorship matches, and student inquiries."
+    ],
+    "stack": [
+      "React",
+      "Java",
+      "Spring Boot",
+      "Bootstrap",
+      "JavaScript",
+      "MySQL",
+      "REST APIs"
+    ],
+    "images": [
+      "/work/alumhive.jpg"
+    ],
+    "links": [
+      {
+        "label": "Repo",
+        "href": "https://github.com/rohit97985/Alumni_portal"
+      }
+    ]
+  }
+]

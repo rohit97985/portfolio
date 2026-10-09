@@ -1,0 +1,44 @@
+[
+  {
+    "id": "this-site",
+    "kind": "built",
+    "title": "This site",
+    "note": "Built it because an infinite canvas desktop stands out far more than a standard resume.",
+    "when": "Oct 2026",
+    "meta": "Next.js · zero runtime dependencies"
+  },
+  {
+    "id": "vector-db",
+    "kind": "built",
+    "title": "Vector Database with RAG Pipeline",
+    "meta": "C++ · HNSW · KD-Tree · Ollama",
+    "note": "Built a vector database completely from scratch in C++ implementing HNSW and KD-Tree indexing, achieving up to 10x faster query execution than brute force search, paired with an Ollama local RAG pipeline.",
+    "when": "2026"
+  },
+  {
+    "id": "packet-analyzer",
+    "kind": "built",
+    "title": "Packet Analyzer (DPI Engine)",
+    "meta": "C++ · Multithreading · PCAP",
+    "note": "Deep Packet Inspection engine capable of processing 1000+ packets/sec with multithreading, SNI-based domain detection, and IP/domain blocking rules.",
+    "when": "2025"
+  },
+  {
+    "id": "alumhive",
+    "kind": "built",
+    "title": "AlumHive",
+    "meta": "React · Spring Boot · Bootstrap · MySQL",
+    "note": "Full-stack alumni networking platform connecting students with alumni through role-based dashboards, job boards, and mentorship workflows.",
+    "when": "2025"
+  },
+  {
+    "id": "modern-family",
+    "kind": "watching",
+    "title": "Modern Family",
+    "note": "Great show to unwind after hours of coding and debugging.",
+    "when": "right now",
+    "image": "/archive/modern-family.webp",
+    "meta": "S1 E20",
+    "pinned": true
+  }
+]
